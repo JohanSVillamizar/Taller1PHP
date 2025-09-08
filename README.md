@@ -57,9 +57,9 @@ https://github.com/JohanSVillamizar/Taller1PHP.git
 
 ### 1️⃣ Instalar dependencias con Composer
 
-composer install
-composer dump-autoload
-composer require amenadiel/jpgraph
+- `composer install`
+- `composer dump-autoload`
+- `composer require amenadiel/jpgraph`
 
 🖱️ Uso
 
