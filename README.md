@@ -48,36 +48,37 @@ Esta aplicación individual permite:
 
 ## 🏗️ Estructura del Proyecto
 /TALLER1PHP/
-│  composer.json
-│  public/
-│    index.php
-│    assets/ (css/js/images)
-│  src/
-│    Controllers/
-│       HomeController.php
-│       EmployeeController.php
-│       SalesController.php
-│    Helpers/
-│       GraphHelper.php
-│    Models/
-│       Employee.php
-│       Sale.php
-│       Calculator.php
-│    Views/
-│       layout.php
-│       home.php
-│       employees/
-│         list.php
-│         form.php
-│       sales/
-│         list.php
-│         form.php
-│  storage/
-│    employees.json
-│    sales.json
-│  vendor/ # Librerías externas (autogeneradas por Composer)
-│  .gitignore           # Exclusión de archivos innecesarios en git
-└── composer.json        # Configuración de dependencias y autoload
+/TALLER1PHP/
+│ composer.json
+│ public/
+│ index.php
+│ assets/ (css/js/images)
+│ src/
+│ Controllers/
+│ HomeController.php
+│ EmployeeController.php
+│ SalesController.php
+│ Helpers/
+│ GraphHelper.php
+│ Models/
+│ Employee.php
+│ Sale.php
+│ Calculator.php
+│ Views/
+│ layout.php
+│ home.php
+│ employees/
+│ list.php
+│ form.php
+│ sales/
+│ list.php
+│ form.php
+│ storage/
+│ employees.json
+│ sales.json
+│ vendor/ # Librerías externas (autogeneradas por Composer)
+│ .gitignore # Exclusión de archivos innecesarios en git
+└── composer.json # Configuración de dependencias y autoload
 
 
 ---
