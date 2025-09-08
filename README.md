@@ -79,6 +79,6 @@ PHP 8
 - Bootstrap 5 (interfaz responsive)
 - Composer (autoloader PSR-4)
 - Librerías externas:
-dompdf/dompdf
-intervention/image
-amenadiel/jpgraph
+  - dompdf/dompdf
+  - intervention/image
+  - amenadiel/jpgraph
