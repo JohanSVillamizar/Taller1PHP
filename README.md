@@ -49,49 +49,36 @@ Esta aplicación individual permite:
 ## 🚀 Instalación
 
 1. **Clonar el repositorio**
-
-```bash
-git clone https://github.com/JohanSVillamizar/Taller1PHP.git
-cd Taller1PHP
+https://github.com/JohanSVillamizar/Taller1PHP.git
 
 ---
 
 ## 🚀 Instalación y Configuración
 
 ### 1️⃣ Instalar dependencias con Composer
-```bash
+
 composer install
 composer dump-autoload
 composer require amenadiel/jpgraph
 
 🖱️ Uso
 
-Ingresa y procesa datos de empleados y ventas desde los formularios HTML.
-
-Visualiza reportes y resultados en la interfaz.
-
-Genera gráficos y PDFs usando las funcionalidades integradas.
+-Ingresa y procesa datos de empleados y ventas desde los formularios HTML.
+-Visualiza reportes y resultados en la interfaz.
+-Genera gráficos y PDFs usando las funcionalidades integradas.
 
 🛠️ Requisitos
 
-PHP ≥ 8
-
-Composer instalado
-
-Servidor web local (PHP built-in server o XAMPP/WAMP)
+-PHP ≥ 8
+-Composer instalado
+-Servidor web local (PHP built-in server o XAMPP/WAMP)
 
 📚 Tecnologías y Librerías
 
 PHP 8
-
-Bootstrap 5 (interfaz responsive)
-
-Composer (autoloader PSR-4)
-
-Librerías externas:
-
+-Bootstrap 5 (interfaz responsive)
+-Composer (autoloader PSR-4)
+-Librerías externas:
 dompdf/dompdf
-
 intervention/image
-
 amenadiel/jpgraph
