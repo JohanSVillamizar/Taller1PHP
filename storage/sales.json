@@ -1,0 +1,66 @@
+[
+    {
+        "id": "68be3db5cdc2c",
+        "client": "TERESA TABARES",
+        "product": "MARTILLO",
+        "quantity": 1,
+        "unit_price": 25000,
+        "date": "2025-09-07"
+    },
+    {
+        "id": "68be3df73ffe7",
+        "client": "NELSON LOPEZ",
+        "product": "TALADRO",
+        "quantity": 1,
+        "unit_price": 320000,
+        "date": "2025-09-08"
+    },
+    {
+        "id": "68be3e2302dad",
+        "client": "CARLOS TRIANA",
+        "product": "TALADRO",
+        "quantity": 1,
+        "unit_price": 300000,
+        "date": "2025-09-08"
+    },
+    {
+        "id": "68be3e586121a",
+        "client": "VICTOR TORO",
+        "product": "HIDROLAVADORA",
+        "quantity": 1,
+        "unit_price": 547000,
+        "date": "2025-09-08"
+    },
+    {
+        "id": "68be5025741bb",
+        "client": "TERESA TABARES",
+        "product": "DESTORNILLADOR PALA",
+        "quantity": 1,
+        "unit_price": 13000,
+        "date": "2025-09-09"
+    },
+    {
+        "id": "68be504097716",
+        "client": "CARLOS TRIANA",
+        "product": "PULIDORA",
+        "quantity": 1,
+        "unit_price": 237000,
+        "date": "2025-09-11"
+    },
+    {
+        "id": "68be519df04f6",
+        "client": "VICTOR TORO",
+        "product": "PINZA",
+        "quantity": 1,
+        "unit_price": 20000,
+        "date": "2025-09-16"
+    },
+    {
+        "id": "68be526aad78e",
+        "client": "CARLOS TRIANA",
+        "product": "TORNILLO",
+        "quantity": 3,
+        "unit_price": 300,
+        "date": "2025-09-17"
+    }
+]

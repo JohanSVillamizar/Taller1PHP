@@ -1,0 +1,14 @@
+{
+  "name": "johansvillamizar/taller1-php",
+  "description": "Taller PHP Avanzado",
+  "require": {
+    "dompdf/dompdf": "^2.0",
+    "intervention/image": "^2.7",
+    "amenadiel/jpgraph": "^4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}

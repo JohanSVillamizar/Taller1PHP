@@ -1,0 +1,26 @@
+# Dependencias de Composer
+/vendor/
+
+# Composer lock
+composer.lock
+
+# Archivos de configuración locales de IDEs
+.idea/
+*.iml
+.vscode/
+
+# Archivos temporales de sistema
+*.log
+*.cache
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos generados por tu aplicación
+/public/uploads/employees/
+/public/uploads/graphs/
+
+# Otros archivos de respaldo o antiguos
+*.bak
+*.old
